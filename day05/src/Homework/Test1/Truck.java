@@ -61,7 +61,6 @@ public class Truck {
         this.loadWeight = loadWeight;
     }
 
-
     public void rent(String renterName, int days) {
         if (days <= 0) {
             System.out.println("租赁天数无效！必须大于0天！");
