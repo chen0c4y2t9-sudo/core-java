@@ -1,0 +1,7 @@
+package homework.test2;
+
+public class Vehicle {
+    public void run() {
+        System.out.println("交通工具正在运行");
+    }
+}
